@@ -1,3 +1,5 @@
+A Spring Boot application utilizing MongoDB for backend load management. Includes features for adding, retrieving, updating, and deleting load records. This API supports operations such as managing load details, querying by shipper ID, and handling individual load entries with MongoDB as the data store.
+
 # Spring boot initializr
 ![image](https://github.com/user-attachments/assets/39be876a-fbc7-400c-83d8-e020d29f2cc7)
 
